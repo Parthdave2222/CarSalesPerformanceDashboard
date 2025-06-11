@@ -1,1 +1,3 @@
 # -Car-Sales-Performance-Dashboard
+
+This Power BI project analyzes car sales performance across dealer regions, car companies, and customer segments. It provides insights into total cars sold, revenue, sales growth, and brand performance using dynamic visuals. A dynamic summary section updates automatically based on user-selected filters like year, region, or company, offering personalized performance highlights. Charts such as maps, bar graphs, and KPI cards allow easy comparison of dealer productivity and regional trends. The report empowers strategic decision-making with interactive, filter-driven insights tailored to 2023 and previous years.
